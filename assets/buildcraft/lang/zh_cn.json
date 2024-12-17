@@ -303,7 +303,7 @@
     "gate.logic.or": "或",
 
     "gate.material.iron": "铁质",
-    "gate.material.nether_brick": "地狱砖质",
+    "gate.material.nether_brick": "下界砖质",
     "gate.material.gold": "金质",
 
     "gate.slots": "%s位置",
@@ -539,7 +539,7 @@
     "tile.chargingTableBlock.name": "充能台",
     "tile.chargingTableBlock.tip": "没法用它充能",
     "tile.constructionMarkerBlock.name": "建设标",
-    "tile.engineCreative.name": "创造模式引擎",
+    "tile.engineCreative.name": "创造引擎",
     "tile.engineIron.name": "燃油引擎",
     "tile.engineStone.name": "斯特林引擎",
     "tile.engineWood.name": "红石引擎",
@@ -762,12 +762,12 @@
     "buildcraft.guide.group.from.buildcraft.area_markers": "区域相关标记",
 
     "buildcraft.help.tank.generic": "用一个空桶点击它，\\n它里面的液体就会装进桶里。",
-    "buildcraft.help.tank.title.tankFuel": "燃油储罐",
-    "buildcraft.help.tank.title.tankCoolant": "冷却液储罐",
-    "buildcraft.help.tank.title.tankResidue": "残渣储罐",
+    "buildcraft.help.tank.title.tankFuel": "燃油储槽",
+    "buildcraft.help.tank.title.tankCoolant": "冷却液储槽",
+    "buildcraft.help.tank.title.tankResidue": "残渣储槽",
     "buildcraft.help.tank.fuel": "此储罐接受任何种类的燃油。",
-    "buildcraft.help.tank.coolant": "此储罐接受任何种类的流体冷却剂以及冰块。",
-    "buildcraft.help.tank.residue": "此储罐会产生残渣，如果使用的燃油未被处理。",
+    "buildcraft.help.tank.coolant": "此储罐接受任何种类的\\n流体冷却剂以及冰块。",
+    "buildcraft.help.tank.residue": "此储罐会产生残渣，\\n如果使用的燃油未被处理。",
 
     "buildcraft.help.stone_engine.flame.title": "燃料剩余",
     "buildcraft.help.stone_engine.fuel.title": "燃料输入",
