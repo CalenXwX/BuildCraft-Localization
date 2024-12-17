@@ -765,9 +765,9 @@
     "buildcraft.help.tank.title.tankFuel": "燃油储槽",
     "buildcraft.help.tank.title.tankCoolant": "冷却液储槽",
     "buildcraft.help.tank.title.tankResidue": "残渣储槽",
-    "buildcraft.help.tank.fuel": "此储罐接受任何种类的燃油。",
-    "buildcraft.help.tank.coolant": "此储罐接受任何种类的\\n流体冷却剂以及冰块。",
-    "buildcraft.help.tank.residue": "此储罐会产生残渣，\\n如果使用的燃油未被处理。",
+    "buildcraft.help.tank.fuel": "此储槽接受任何种类的燃油。",
+    "buildcraft.help.tank.coolant": "此储槽接受任何种类的\\n流体冷却剂以及冰块。",
+    "buildcraft.help.tank.residue": "此储槽会产生残渣，\\n如果使用的燃油未被处理。",
 
     "buildcraft.help.stone_engine.flame.title": "燃料剩余",
     "buildcraft.help.stone_engine.fuel.title": "燃料输入",
