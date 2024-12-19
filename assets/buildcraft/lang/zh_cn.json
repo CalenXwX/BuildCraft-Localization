@@ -191,11 +191,11 @@
     "buildcraft.fluid.flow.milli.long": "%s毫桶每刻",
     "buildcraft.fluid.flow.bucket.long": "%s桶每秒",
 
-    "buildcraft.mj.static.long": "%sMC焦耳",
+    "buildcraft.mj.static.long": "%s MC焦耳",
     "buildcraft.mj.static.short": "%s MJ",
-    "buildcraft.mj.flow.long": "%sMC焦耳每刻",
+    "buildcraft.mj.flow.long": "%s MC焦耳每刻",
     "buildcraft.mj.flow.short": "%s MJ/t",
-    "buildcraft.mj.flow.seconds.long": "%sMC焦耳每秒",
+    "buildcraft.mj.flow.seconds.long": "%s MC焦耳每秒",
     "buildcraft.mj.flow.seconds.short": "%s MJ/s",
 
     "fillerpattern.clear": "清除",
